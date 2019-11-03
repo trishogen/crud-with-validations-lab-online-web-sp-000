@@ -9,4 +9,3 @@ Rails.application.routes.draw do
 
   root 'songs#index'
 end
-© 2019 GitHub, Inc.
